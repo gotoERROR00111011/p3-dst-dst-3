@@ -1,4 +1,4 @@
-# boostcamp-p3-dst
+# Boostcamp-p3-DST
 
 ## Members
 
