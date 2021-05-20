@@ -4,8 +4,6 @@
 
 문희철, 이동현, 임현택, 임승빈, 최건우, 성인규
 
-
-
 ## Ground Rule
 
 - 늦거나 불참 시 슬랙에 통보
@@ -13,3 +11,9 @@
 - 월, 화 - 강의 내용 복습 및 토론 + daily mission 협업
 - 수, 목 - special mission 협업 + 대회 관련 토의
 - 금 - 이주의 my best code 발표 + 그에 대한토론
+
+
+# Code 실행 방법
+
+TAPT_solution.ipynb 노트북 실행
+"수정" 주석 부분을 수정해서 실행
